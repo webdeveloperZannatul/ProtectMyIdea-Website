@@ -1,0 +1,1 @@
+var e=`/assets/process-shot-BgCa8K4J.jpg`;export{e as t};
